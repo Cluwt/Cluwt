@@ -1,10 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#FF0000&height=120&section=header"/>
+[<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#87CEEB&height=120&section=header"/>](https://github.com/your_username)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9932CC&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+César+Rodrigues;I'm+21+years+old;I'm+from+Brazil;I'm+Graduating+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEEB&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+My+name+is+C%C3%A9sar+Rodrigues%21%21%21;I'm+21+years+old%21;I'm+from+Brazil%21;I'm+Graduating+in+Systems+Development%21;Be+Welcome!+%3A%29)](https://git.io/typing-svg)
 
 
-
-# Console.WriteLine("Olá, aqui é o César"); 💻🖱
+# System.out.println("Olá, aqui é o César"); 💻🖱
 
 Olá/Hi, tudo bem com vocês? Vim aqui por meio do GitHub mostrar toda a minha evolução desde os meus aprendizados em casa, como em minha entrada no curso de Desenvolvimento de Software MultiPlataforma na FATEC. Tenho 21 anos, e tenho como trajeto e objetivo ser um dos melhores no que sonho fazer! 
 
