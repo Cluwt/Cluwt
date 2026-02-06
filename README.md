@@ -10,7 +10,7 @@ Olá/Hi, tudo bem com vocês? Vim aqui por meio do GitHub mostrar toda a minha e
 # Status 🔍
 
 - ETEC - Análise e Desenvolvimento de Sistemas (2/3) - Não Finalizado.
-- FATEC - Desenvolvimento de Software MultiPlataforma (3/6) - Cursando.
+- FATEC - Desenvolvimento de Software MultiPlataforma (6/6) - Finalizado.
 - Inglês Avançado (Fisk) - Finalizado porém sem certificado.
 
 ## Objetivos e Metas 🔥
