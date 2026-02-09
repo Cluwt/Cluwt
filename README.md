@@ -1,6 +1,6 @@
 [<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#87CEEB&height=120&section=header"/>](https://github.com/your_username)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEEB&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+My+name+is+C%C3%A9sar+Rodrigues%21%21%21;I'm+21+years+old%21;I'm+from+Brazil%21;I'm+Graduating+in+Systems+Development%21;Be+Welcome!+%3A%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEEB&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+My+name+is+C%C3%A9sar+Rodrigues%21%21%21;I'm+23+years+old%21;I'm+from+Brazil%21;I'm+Graduating+in+Systems+Development%21;Be+Welcome!+%3A%29)](https://git.io/typing-svg)
 
 
 # System.out.println("Olá, aqui é o César"); 💻🖱
