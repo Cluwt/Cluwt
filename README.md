@@ -2,7 +2,7 @@
 
 # CÉSAR RODRIGUES RIBEIRO
 
-### Software Engineer • Product Builder • Founder of Césarnology
+### Software Engineer • Product Builder 
 
 **Eu não quero apenas participar do futuro. Quero construir uma parte dele.**
 
