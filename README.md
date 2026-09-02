@@ -322,27 +322,7 @@ Quero ser **consideravelmente melhor do que eu era ontem**.
 
 ---
 
-# `10` — GITHUB
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=cluwt&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cluwt&layout=compact&langs_count=8&hide_border=true" />
-
-<br>
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=cluwt&hide_border=true" />
-
-<br>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=cesarnology&hide_border=true&area=true" />
-
-</div>
-
----
-
-# `11` — CURRENTLY
+# `10` — CURRENTLY
 
 ```yaml
 name: César Rodrigues Ribeiro
@@ -379,7 +359,7 @@ status: "Still under construction."
 
 ---
 
-# `12` — WHAT'S NEXT
+# `11` — WHAT'S NEXT
 
 Não tenho uma resposta definitiva para onde vou chegar.
 
